@@ -6,7 +6,7 @@
 
 ### Emails: mbanagar@vt.edu and hdhillon@vt.edu
 
-This repository contains matlab codes for the simulations in [1]. In each folder, you will find the required codes and data to recreate all simulation plots provided in [1].
+This repository contains matlab codes for the simulations in [1]. In each folder, you will find the required codes to recreate all simulation plots provided in [1].
 
 Please cite [1] for reusing these codes and contact Morteza Banagar at mbanagar@vt.edu if you have any questions.
 
