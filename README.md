@@ -13,7 +13,7 @@ Please cite [1] for reusing these codes and contact Morteza Banagar at mbanagar@
 The extended journal version of the conference in [1] is available in [2].
 
 <!–– The repository for the codes of [2] can be found [here](https://github.com/stochastic-geometry/3D-TwoHop-Drone) -->.
-
+<!-- Write your comments here -->
 ![3GPP_Mobility_Drone](https://github.com/stochastic-geometry/TwoHop-Drone/blob/d434d82f31828277b01c4673e8594621ba1ba96c/3GPP_Mobility_Drone.JPG)
 
 
