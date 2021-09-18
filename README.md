@@ -18,7 +18,7 @@ The extended journal version of the conference in [1] is available in [2].
 
 ### References
 
-[1] M. Banagar and H. S. Dhillon, “Fundamentals of 3D two-hop cellular networks analysis with wireless backhauled UAVs,” in <i>Proceedings of IEEE Global Communications Conference (Globecom)</i>, December 2021, available [here](https://github.com/stochastic-geometry/TwoHop-Drone/blob/34e92dd8b0320ab448f056132aed2750c3be3531/Paper.pdf)
+[1] M. Banagar and H. S. Dhillon, “Fundamentals of 3D two-hop cellular networks analysis with wireless backhauled UAVs,” to appear in <i>Proceedings of IEEE Global Communications Conference (Globecom)</i>, December 2021, available [here](https://github.com/stochastic-geometry/TwoHop-Drone/blob/34e92dd8b0320ab448f056132aed2750c3be3531/Paper.pdf)
 <!-- , pp. 1-6, available online at [IEEE Xplore](https://ieeexplore.ieee.org/document/9013645) and [ArXiv](https://arxiv.org/abs/1905.00972) -->.
 
 [2] M. Banagar and H. S. Dhillon, “3D two-hop cellular networks with wireless backhauled UAVs: Modeling and fundamentals,” <i>submitted</i>, available online at [ArXiv](https://arxiv.org/abs/2105.07055).
