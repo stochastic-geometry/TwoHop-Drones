@@ -11,7 +11,7 @@ This repository contains matlab codes for the simulations in [1]. In each folder
 Please cite [1] for reusing these codes and contact Morteza Banagar at mbanagar@vt.edu if you have any questions.
 
 The extended journal version of the conference in [1] is available in [2].
-The repository for the codes of [2] can be found [here](https://github.com/stochastic-geometry/3DTwoHop-Drone)
+The repository for the codes of [2] can be found [here](https://github.com/stochastic-geometry/3DTwoHop-Drone).
 
 ![SystemModel1](https://github.com/stochastic-geometry/TwoHop-Drone/blob/8751ea62f0105ec532437ae46c7b748f6a9ecae3/TwoHop-Drone-Fig.png)
 
